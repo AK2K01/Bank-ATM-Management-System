@@ -4,9 +4,9 @@ This is a controlled-based application designed using five different Java Classe
 Account, Transaction, ATM, Bank, and User. 
 
 In this program:
-### • The user can register himself as a Customer who is going to have at least one Savings Account in the given Bank. (By Default)
-### • The user can open several other accounts under his Unique Universal I.D.(UUID) in the Bank.
-### • Once registered as a Customer in the Bank, the user can perform operations like:
+#### • The user can register himself as a Customer who is going to have at least one Savings Account in the given Bank. (By Default)
+#### • The user can open several other accounts under his Unique Universal I.D.(UUID) in the Bank.
+#### • Once registered as a Customer in the Bank, the user can perform operations like:
 
 ####    Displaying his/her Transaction History for any given Account.
 ####    Withdraw funds from any given Account.
